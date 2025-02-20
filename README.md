@@ -1,4 +1,8 @@
-@ARTICLE{10382701,
+#  Proportional Perturbation Model for Hyperspectral Unmixing Accounting for Endmember Variability
+
+Please kindly cite the papers if this code is useful and helpful for your research.
+
+```@ARTICLE{10382701,
   author={Gao, Wei and Yang, Jingyu and Chen, Jie},
   journal={IEEE Geoscience and Remote Sensing Letters}, 
   title={Proportional Perturbation Model for Hyperspectral Unmixing Accounting for Endmember Variability}, 
